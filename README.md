@@ -1,5 +1,18 @@
 test..
 
+<div align="center">
+  
+My _Markdown_ text.
+
+More text.
+
+Some SVG images:
+
+[![MichaelCurrin - dev-cheatsheets](https://img.shields.io/static/v1?label=MichaelCurrin&message=dev-cheatsheets&color=blue&logo=github)](https://github.com/MichaelCurrin/dev-cheatsheets)
+[![stars - dev-cheatsheets](https://img.shields.io/github/stars/MichaelCurrin/dev-cheatsheets?style=social)](https://github.com/MichaelCurrin/dev-cheatsheets)
+
+</div>
+
 before<div style="text-align: right"> your-text-here </div>after
 
 <p style="text-align:left;">
