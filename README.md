@@ -1,5 +1,7 @@
 test..
 
+before<div style="text-align: right"> your-text-here </div>after
+
 <p style="text-align:left;">
     ABC university
     <span style="float:right;">
