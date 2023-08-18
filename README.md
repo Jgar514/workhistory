@@ -13,14 +13,76 @@ Some SVG images:
 
 </div>
 
-before<div style="text-align: right"> your-text-here </div>after
+# Being Edited Currently
 
-<p style="text-align:left;">
-    ABC university
-    <span style="float:right;">
-        Aug - Dec 2020
-    </span>
-</p>
+```yaml
+*
+company: Premiere Works
+dates:
+location: Sterling Virginia
+job: Commercial Technicians
+roles:
+  [
+    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
+    "Periodic site visits to evaluate the performance of construction/demolition crews."
+    "Communicated issues within projects to GM and relayed feedback from clients.",
+    "Material purchasing and drop off to multiple projects daily.",
+    "Maintained equipment and oversaw machinery performance."
+  ]
+
+company: Premiere Works - Independent Contractor 
+dates:
+location: Sterling Virginia
+job: Commercial Technicians
+roles:
+  [
+    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
+    "Periodic site visits to evaluate the performance of construction/demolition crews."
+    "Communicated issues within projects to GM and relayed feedback from clients.",
+    "Material purchasing and drop off to multiple projects daily.",
+    "Maintained equipment and oversaw machinery performance."
+  ]
+
+company: Mother's 
+dates:
+location: Sterling Virginia
+job: Commercial Technicians
+roles:
+  [
+    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
+    "Periodic site visits to evaluate the performance of construction/demolition crews."
+    "Communicated issues within projects to GM and relayed feedback from clients.",
+    "Material purchasing and drop off to multiple projects daily.",
+    "Maintained equipment and oversaw machinery performance."
+  ]
+
+company: Beach Boy's Pizza
+dates:
+location: Sterling Virginia
+job: Commercial Technicians
+roles:
+  [
+    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
+    "Periodic site visits to evaluate the performance of construction/demolition crews."
+    "Communicated issues within projects to GM and relayed feedback from clients.",
+    "Material purchasing and drop off to multiple projects daily.",
+    "Maintained equipment and oversaw machinery performance."
+  ]
+
+company: Vizzini's
+dates:
+location: Sterling Virginia
+job: Commercial Technicians
+roles:
+  [
+    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
+    "Periodic site visits to evaluate the performance of construction/demolition crews."
+    "Communicated issues within projects to GM and relayed feedback from clients.",
+    "Material purchasing and drop off to multiple projects daily.",
+    "Maintained equipment and oversaw machinery performance."
+  ]
+*
+```
 
 
 Premiere Works <div align="right">Sterling, VA</div>
