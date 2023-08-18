@@ -1,3 +1,13 @@
+test..
+
+<p style="text-align:left;">
+    ABC university
+    <span style="float:right;">
+        Aug - Dec 2020
+    </span>
+</p>
+
+
 Premiere Works <div align="right">Sterling, VA</div>
 Commercial Technician <div align="right">May 2022 - June 2023</div>	
 
