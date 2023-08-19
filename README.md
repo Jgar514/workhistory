@@ -1,26 +1,15 @@
-test..
 
 <div align="center">
   
-My _Markdown_ text.
-
-More text.
-
-Some SVG images:
-
-[![MichaelCurrin - dev-cheatsheets](https://img.shields.io/static/v1?label=MichaelCurrin&message=dev-cheatsheets&color=blue&logo=github)](https://github.com/MichaelCurrin/dev-cheatsheets)
-[![stars - dev-cheatsheets](https://img.shields.io/github/stars/MichaelCurrin/dev-cheatsheets?style=social)](https://github.com/MichaelCurrin/dev-cheatsheets)
-
+# Work History
 </div>
 
-# Being Edited Currently
-
 ```yaml
-*
+
 company: Premiere Works
-dates:
+dates: 2020-2022
 location: Sterling Virginia
-job: Commercial Technicians
+job: Commercial Technician
 roles:
   [
     "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
@@ -31,93 +20,50 @@ roles:
   ]
 
 company: Premiere Works - Independent Contractor 
-dates:
+dates: 2017-2020
 location: Sterling Virginia
-job: Commercial Technicians
+job: Commercial Technician
 roles:
   [
-    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
-    "Periodic site visits to evaluate the performance of construction/demolition crews."
-    "Communicated issues within projects to GM and relayed feedback from clients.",
-    "Material purchasing and drop off to multiple projects daily.",
-    "Maintained equipment and oversaw machinery performance."
+    "On-site supervisor for the renovation of a fitness center for The Government Accountability Office."
+    "Monitored construction processes and reported progress to both the client and the GM."
+    "On-site supervisor for lobby renovations at the Thurgood Marshall Federal Judiciary Building."
+    "Ensured adherence to health and safety regulations at all times."
   ]
 
 company: Mother's 
-dates:
+dates: March 2016 - September 2016
 location: Sterling Virginia
-job: Commercial Technicians
+job: Barback
 roles:
   [
-    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
-    "Periodic site visits to evaluate the performance of construction/demolition crews."
-    "Communicated issues within projects to GM and relayed feedback from clients.",
-    "Material purchasing and drop off to multiple projects daily.",
-    "Maintained equipment and oversaw machinery performance."
+    "Follow all safety guidelines and regulations for service standards.",
+    "Assisting with opening and closing duties, such as restocking the bar with garnishes, straws, and napkins, ensuring that Bartenders       have clean towels, glassware, etc."
+    "Speaking to customers, answering questions, handling complaints.",
   ]
 
 company: Beach Boy's Pizza
-dates:
+dates: 2014 - 2016 
 location: Sterling Virginia
 job: Commercial Technicians
 roles:
   [
-    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
-    "Periodic site visits to evaluate the performance of construction/demolition crews."
-    "Communicated issues within projects to GM and relayed feedback from clients.",
-    "Material purchasing and drop off to multiple projects daily.",
-    "Maintained equipment and oversaw machinery performance."
+    "Manage multiple orders, delivery locations, and customers at the same time",
+    "Communicate clearly with customers and food service employees, demonstrating an eagerness to work through any issues or points of        confusion"
+    "Verify orders before each delivery and maintain a detailed, comprehensive delivery log"
   ]
 
 company: Vizzini's
-dates:
+dates: 2007 - 2013
 location: Sterling Virginia
 job: Commercial Technicians
 roles:
   [
-    "Provided commercial general contracting services in DC, MD, and Northern Virginia.",
-    "Periodic site visits to evaluate the performance of construction/demolition crews."
-    "Communicated issues within projects to GM and relayed feedback from clients.",
-    "Material purchasing and drop off to multiple projects daily.",
-    "Maintained equipment and oversaw machinery performance."
+    "Ensure optimal level of sanitation and safety standards in work area at all times.",
+    "Demonstrated ability to manage both the front end and the back end restaurant."
+    "Exceptional communication and customer service skills.",
   ]
-*
+
 ```
 
 
-Premiere Works <div align="right">Sterling, VA</div>
-Commercial Technician <div align="right">May 2022 - June 2023</div>	
-
--Provided commercial general contracting services in DC, MD, and Northern Virginia. 
--Periodic site visits to evaluate performance of construction/demolition crews.
--Communicated issues within projects to GM and relayed feedback from clients.
--Material purchasing and drop off to multiple projects daily.
--Maintained equipment and oversaw machinery performance.
--Provided snow removal services in winter months.
-
-<div align="right">Now, everyone begins as a poor player—it takes time to learn a game to get to a point where you know what you’re doing. There is the mistaken notion, though, that by merely continuing to play or “learn” the game, one can become a top player. In reality, the “scrub” has many more mental obstacles to overcome than anything actually going on during the game. The scrub has lost the game even before it starts. He’s lost the game even before deciding which game to play. His problem? He does not play to win.</div>
-
-Independent Contractor - Premiere Works	
-Washington, DC
-Construction Supervisor	
-Jan 2018 - May 2022
-
--On site supervisor for the renovation of a fitness center for The Government Accountability Office.
--Monitored construction processes and reported progress to both the client and the GM.
--On site supervisor for lobby renovations at the Thurgood Marshall Federal Judiciary Building.
--Ensured adherence to health and safety regulations at all times.
-
-Mother's Bar and Grille
-Timonium, MD
-Bar-back
-<dates>
-
--description
--description
-
-Vizzini's
-Annapolis, MD
-<dates>
-
--description
--description
