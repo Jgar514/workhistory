@@ -38,7 +38,7 @@ job: Barback
 roles:
   [
     "Follow all safety guidelines and regulations for service standards.",
-    "Assisting with opening and closing duties, such as restocking the bar with garnishes, straws, and napkins, ensuring that Bartenders       have clean towels, glassware, etc.",
+    "Assisting with opening and closing duties, such as restocking the bar with garnishes, straws, and napkins, ensuring that bartenders have clean towels, glassware, etc.",
     "Speaking to customers, answering questions, handling complaints."
   ]
 
@@ -49,7 +49,7 @@ job: Commercial Technicians
 roles:
   [
     "Manage multiple orders, delivery locations, and customers at the same time",
-    "Communicate clearly with customers and food service employees, demonstrating an eagerness to work through any issues or points of        confusion",
+    "Communicate clearly with customers and food service employees, demonstrating an eagerness to work through any issues or points of confusion",
     "Verify orders before each delivery and maintain a detailed, comprehensive delivery log"
   ]
 
