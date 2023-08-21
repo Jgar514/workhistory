@@ -33,7 +33,7 @@ roles:
 
 company: Mother's 
 dates: March 2016 - September 2016
-location: Sterling Virginia
+location: Timonium Maryland
 job: Barback
 roles:
   [
@@ -44,8 +44,8 @@ roles:
 
 company: Beach Boy's Pizza
 dates: 2014 - 2016 
-location: Sterling Virginia
-job: Commercial Technicians
+location: Annapolis Maryland
+job: Food Delivery
 roles:
   [
     "Manage multiple orders, delivery locations, and customers at the same time",
@@ -55,8 +55,8 @@ roles:
 
 company: Vizzini's
 dates: 2007 - 2013
-location: Sterling Virginia
-job: Commercial Technicians
+location: Annapolis Maryland
+job: Sub Artist
 roles:
   [
     "Ensure optimal level of sanitation and safety standards in work area at all times.",
