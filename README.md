@@ -7,7 +7,7 @@
 ```yaml
 
 company: Premiere Works
-dates: 2020-2022
+dates: May 2020 - July 2022
 location: Sterling Virginia
 job: Commercial Technician
 roles:
@@ -20,7 +20,7 @@ roles:
   ]
 
 company: Premiere Works - Independent Contractor 
-dates: 2017-2020
+dates: March 2017 - May 2020
 location: Sterling Virginia
 job: Commercial Technician
 roles:
@@ -43,7 +43,7 @@ roles:
   ]
 
 company: Beach Boy's Pizza
-dates: 2014 - 2016 
+dates: January 2014 - March 2016 
 location: Annapolis Maryland
 job: Food Delivery
 roles:
@@ -54,7 +54,7 @@ roles:
   ]
 
 company: Vizzini's
-dates: 2007 - 2013
+dates: March 2007 - November 2013
 location: Annapolis Maryland
 job: Sub Artist
 roles:
